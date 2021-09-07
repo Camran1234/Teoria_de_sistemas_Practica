@@ -1,0 +1,70 @@
+
+.color-blue{
+	color: blue;
+}
+
+.color-cyan{
+	color: cyan;
+}
+
+.center{  
+    margin: 45px auto; 
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border: 0px;
+    text-align: center;    
+}
+
+.image{
+    margin-top: 50px;
+    width: 500px;
+    height: 500px;
+    text-align: center; 
+    border: 0;
+}
+
+.color-fondo{
+	 background: CornflowerBlue;  
+}
+
+.footer{
+    text-align: center;
+    height: 60px;
+    width: 100%;
+    padding: 0.5rem 1rem;
+    bottom:0;
+    left:0;
+    position:fixed;
+    background: rgba(0,0,0,0.2);
+    color: white;    
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input{
+	padding:8px;
+	border:none;
+	margin-top: 5px;
+	border-bottom:1px solid #ccc;
+	width:auto;
+}
+
+.button{
+	border:none;
+	display:inline-block;
+	padding:8px 16px;
+	vertical-align:middle;
+	overflow:hidden;
+	text-decoration:none;
+	color:inherit;
+	background-color:grays;
+	text-align:center;
+	cursor:pointer;
+	white-space:nowrap
+}
+
